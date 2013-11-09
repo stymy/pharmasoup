@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:nodeID="Nde0b022ae550405ab6606906f9b09503">
+    <ns1:name>ALLIANCE CLINICAL RESRCH »</ns1:name>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns1:mbox rdf:resource="/docdollars/payments/9881969"/>
+  </rdf:Description>
+</rdf:RDF>
